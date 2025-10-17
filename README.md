@@ -1,0 +1,2 @@
+My Numpy journey in 8 files.
+Without numpy, I would be writing each advanced formula in my DS and ML projects by hand, thus wasting my time and making a lot of unnecessary mistakes in my code. And btw Im still discovering useful tools in this library.
